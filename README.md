@@ -7,5 +7,5 @@ This is a simple p5js toy that allows users to draw rainbows with a slider to ad
 2. Click and drag the mouse to draw with rainbow colors.
 3. Press the 'r' key to reset the canvas.
 
-##Dependencies
+## Dependencies
 This project uses the p5js library.
